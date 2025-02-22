@@ -1,0 +1,20 @@
+.main-title {
+    text-align: center;
+    font-size: 4em;
+    margin: 0 0 100px;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    max-width: 1100px;
+    width: 100%;
+    padding: 20px;
+    text-align: left;
+    background-color: #d67474;
+}
